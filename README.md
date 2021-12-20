@@ -1,6 +1,4 @@
-# useful-links
-This repo will store useful links
-
+# A Repo for collecting useful links for Developers!
 
 
 ## Java, Spring Boot GraphQL
